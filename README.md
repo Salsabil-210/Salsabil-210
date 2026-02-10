@@ -3,5 +3,5 @@ I’m a software engineer working mainly on backend development and related syst
 
 ## Skills
 <p>
-  <img src="https://skillicons.dev/icons?i=go,nodejs,ts,docker,kafka,postgres,mysql,mongodb,html,css,dotnet,python," />
+  <img src="https://skillicons.dev/icons?i=go,nodejs,ts,docker,kafka,postgres,mysql,mongodb,html,dotnet,python," />
 </p>
